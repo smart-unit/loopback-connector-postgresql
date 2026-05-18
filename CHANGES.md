@@ -1,3 +1,181 @@
+2026-05-11, Version 8.0.9
+=========================
+
+ * chore(deps): update dependency loopback-datasource-juggler to v6.0.6 (renovate[bot])
+
+ * chore(deps): update dependency @commitlint/cli to v21 (renovate[bot])
+
+ * chore(deps): update dependency loopback-connector to v7.0.6 (renovate[bot])
+
+ * chore(deps): update dependency uuid to v13.0.2 (renovate[bot])
+
+ * chore(deps): lock file maintenance (renovate[bot])
+
+
+2026-04-14, Version 8.0.8
+=========================
+
+ * chore(deps): update dependency loopback-connector to v7.0.5 (renovate[bot])
+
+ * chore(deps): update dependency loopback-datasource-juggler to v6.0.5 (renovate[bot])
+
+ * chore(deps): update dependency sinon to v21.1.2 (renovate[bot])
+
+ * chore(deps): update dependency lodash to v4.18.1 (renovate[bot])
+
+ * chore(deps): lock file maintenance (renovate[bot])
+
+ * fix: stop overriding clientConfig's Promise (Jérémy Lal)
+
+ * chore(deps): update dependency @commitlint/cli to v20.5.0 (renovate[bot])
+
+ * chore(deps): update dependency @commitlint/config-conventional to v20.5.0 (renovate[bot])
+
+ * chore(deps): update dependency sinon to v21.0.3 (renovate[bot])
+
+
+2026-03-09, Version 8.0.7
+=========================
+
+ * chore(deps): update dependency loopback-connector to v7.0.4 (renovate[bot])
+
+ * chore(deps): update dependency loopback-datasource-juggler to v6.0.4 (renovate[bot])
+
+ * chore(deps): update dependency pg to v8.20.0 (renovate[bot])
+
+ * chore(deps): update dependency @commitlint/cli to v20.4.3 (renovate[bot])
+
+ * chore(deps): update dependency @commitlint/config-conventional to v20.4.3 (renovate[bot])
+
+ * chore(deps): update dependency sinon to v21.0.2 (renovate[bot])
+
+ * chore(deps): lock file maintenance (renovate[bot])
+
+
+2026-02-10, Version 8.0.6
+=========================
+
+ * chore(deps): update dependency loopback-datasource-juggler to v6.0.3 (renovate[bot])
+
+ * chore(deps): update dependency @commitlint/cli to v20.4.1 (renovate[bot])
+
+ * chore(deps): update dependency @commitlint/config-conventional to v20.4.1 (renovate[bot])
+
+ * chore(deps): lock file maintenance (renovate[bot])
+
+ * chore(deps): update dependency lodash to v4.17.23 [security] (renovate[bot])
+
+ * chore(deps): update dependency pg to v8.17.2 (renovate[bot])
+
+
+2026-01-12, Version 8.0.5
+=========================
+
+ * chore(deps): update dependency loopback-datasource-juggler to v6.0.2 (renovate[bot])
+
+ * chore(deps): update dependency loopback-connector to v7.0.2 (renovate[bot])
+
+ * chore(deps): update dependency @commitlint/cli to v20.3.1 (renovate[bot])
+
+ * chore(deps): update dependency @commitlint/config-conventional to v20.3.1 (renovate[bot])
+
+ * chore(deps): update dependency @commitlint/config-conventional to v20.3.0 (renovate[bot])
+
+ * chore(deps): update dependency @commitlint/cli to v20.3.0 (renovate[bot])
+
+ * chore(deps): update dependency sinon to v21.0.1 (renovate[bot])
+
+
+2025-12-08, Version 8.0.4
+=========================
+
+ * chore(deps): update dependency loopback-datasource-juggler to v6.0.1 (renovate[bot])
+
+ * chore(deps): update dependency loopback-connector to v7.0.1 (renovate[bot])
+
+ * chore(deps): update dependency @commitlint/cli to v20.2.0 (renovate[bot])
+
+ * chore(deps): update dependency @commitlint/config-conventional to v20.2.0 (renovate[bot])
+
+ * chore(deps): lock file maintenance (renovate[bot])
+
+ * chore(deps): update actions/checkout action to v6 (renovate[bot])
+
+
+2025-11-11, Version 8.0.3
+=========================
+
+ * chore(deps): update dependency loopback-datasource-juggler to v6 (renovate[bot])
+
+ * fix(deps): update dependency loopback-connector to v7 (renovate[bot])
+
+ * chore(deps): update dependency mocha to v11.7.5 (renovate[bot])
+
+ * chore(deps): lock file maintenance (renovate[bot])
+
+ * chore(deps): update dependency eslint-config-loopback to v14 (renovate[bot])
+
+ * fix(deps): update dependency uuid to v13 (renovate[bot])
+
+
+2025-10-14, Version 8.0.2
+=========================
+
+ * chore(deps): update dependency loopback-datasource-juggler to v5.2.2 (renovate[bot])
+
+ * chore(deps): update dependency loopback-connector to v6.2.12 (renovate[bot])
+
+ * chore(deps): update actions/setup-node action to v6 (renovate[bot])
+
+ * chore(deps): update dependency mocha to v11.7.4 (renovate[bot])
+
+ * chore(deps): lock file maintenance (renovate[bot])
+
+ * chore(deps): update dependency @commitlint/cli to v20 (renovate[bot])
+
+ * chore(deps): update dependency @commitlint/config-conventional to v20 (renovate[bot])
+
+ * fix(deps): update dependency debug to v4.4.3 (renovate[bot])
+
+
+2025-09-09, Version 8.0.1
+=========================
+
+ * chore: update dependencies (dhmlau)
+
+ * fix: revert to debug@4.4.1 (dhmlau)
+
+ * chore(deps): update dependency mocha to v11.7.2 (renovate[bot])
+
+ * chore(deps): update actions/setup-node action to v5 (renovate[bot])
+
+ * fix(deps): update dependency chalk to v5.6.1 (renovate[bot])
+
+ * fix(deps): update dependency debug to v4.4.2 (renovate[bot])
+
+ * fix(deps): update dependency chalk to v5 (renovate[bot])
+
+ * chore(deps): update dependency rewire to v9.0.1 (renovate[bot])
+
+
+2025-08-11, Version 8.0.0
+=========================
+
+ * fix(deps): update dependency loopback-connector to v6.2.7 (renovate[bot])
+
+ * chore: drop Node.js 18 support (dhmlau)
+
+ * chore(deps): update dependency node to v22 (renovate[bot])
+
+ * chore(deps): update dependency loopback-datasource-juggler to v5.1.11 (renovate[bot])
+
+ * chore(deps): update actions/checkout action to v5 (renovate[bot])
+
+ * chore(deps): lock file maintenance (renovate[bot])
+
+ * fix: handle unexpected connection termination error in error listener (Ramachandran Mani)
+
+
 2025-07-15, Version 7.2.3
 =========================
 
