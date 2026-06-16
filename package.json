@@ -37,7 +37,7 @@
     "loopback-connector": "https://github.com/smart-unit/loopback-connector.git",
     "pg": "^8.0.2",
     "strong-globalize": "^6.0.0",
-    "uuid": "^13.0.0"
+    "uuid": "^11.0.3"
   },
   "devDependencies": {
     "@commitlint/cli": "^21.0.0",
